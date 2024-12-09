@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>AK Maria Regina Mundi () mrmmme</title>
+  <title>Maria Regina Mundi</title>
   <lyrics>[C] 
  Maria Regina Mundi
  Maria Mater Ecclesiae
@@ -11,7 +11,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
