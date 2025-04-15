@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>AK Zbawcza On porusza góry (Każdy chce zrozumienia) zopg kczmn</title>
+  <title>AK Zbawca On porusza góry (Każdy chce zrozumienia) zopg kczmn</title>
   <lyrics>[V1]  
  Każdy chce zrozumienia  
  Miłości niezawodnej  
@@ -56,7 +56,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

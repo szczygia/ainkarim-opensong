@@ -47,7 +47,7 @@
   <hymn_number></hymn_number>
   <presentation>V1 V2 C V3 V4 C V5 C</presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
