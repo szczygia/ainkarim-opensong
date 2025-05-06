@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Zmartwychwstał Pan </title>
-  <lyrics>[V]
-.
-1 Dzięki składajmy Mu, bo wielka jest Jego łaska
-2 Z grobu powstał dziś Pan, a noc jest pełna blasku
-3 Chcę dziękować Mlu i chcę Go dziś błogosławić
-4 Jezus, mój Pan i Bóg, On przyszedł aby nas zbawić
+  <lyrics>[V1]
+ Dzięki składajmy Mu, 
+ bo wielka jest Jego łaska
+ Z grobu powstał dziś Pan, 
+ a noc jest pełna blasku
+ Chcę dziękować Mu 
+ i chcę Go dziś błogosławić
+ Jezus, mój Pan i Bóg, 
+ On przyszedł aby nas zbawić
 
-[V]
-.
-1 Lepiej się ucieć do Pana, niż zaufać książętom
-2 Pan, moja moc i pieśń, podtrzymał gdy mnie popchnięto
-3 Już nie będę się bał - cóż może zrobić mi śmierć?
-4 Nie, nie lękam się i śpiewam chwały pieśń
+[V2]
+ Lepiej się uciec do Pana, 
+ niż zaufać książętom
+ Pan, moja moc i pieśń, 
+ podtrzymał gdy mnie popchnięto
+ Już nie będę się bał 
+- cóż może zrobić mi śmierć?
+ Nie, nie lękam się 
+ i śpiewam chwały pieśń
 
-[V]
-.
-1 Odrzuony Pan stał się kamieniem węgielnym
-2 Pan wysłuchał mnie, On zbawienem mymm
-3 Cudem staje się noc, gdy w dzień jest przemieniona
-4 Tańczymy dla niego dziś, prawica Pańska wzniesiona
+[V3]
+ Odrzucony Pan 
+ stał się kamieniem węgielnym
+ Pan wysłuchał mnie, 
+ On zbawieniem mym
+ Cudem staje się noc, 
+ gdy w dzień jest przemieniona
+ Tańczymy dla niego dziś, 
+ prawica Pańska wzniesiona
 
 [C]
  Zmartwychwstał Pan i żyje dziś,
  blaskiem jaśnieje noc
- nie ummrę, nie lecz będę żył,
+ nie umrę, nie, lecz będę żył,
  Pan okazał swą moc.
  Krzyż to jest brama Pana,
  jeśli chcesz przez nią wejdź.
@@ -34,9 +43,9 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>C V1 C V2 C V3 C</presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -45,7 +54,7 @@
   <user3></user3>
   <theme></theme>
   <linked_songs>
-  <linked_song>Moje\Zmartwychwstał Pan</linked_song></linked_songs>
+  <linked_song>ain-karim\Zmartwychwstał Pan</linked_song></linked_songs>
   <tempo></tempo>
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
