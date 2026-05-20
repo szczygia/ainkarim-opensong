@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Jezus jest z nami tu</title>
+  <title>Jezus jest z nami tu () jjznt</title>
   <lyrics>[V1] 
  Jezus jest z nami tu! /x4
  A jego moc działa dziś by uwolnić Cię
- A jego moc dziala dziś by uzdrowić Cię
+ A jego moc działa dziś by uzdrowić Cię
  A jego moc działa dziś aby zbawić Cię
  Jezus jest z nami tu! 
 
@@ -19,7 +19,7 @@
   <hymn_number></hymn_number>
   <presentation>V1 V2</presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

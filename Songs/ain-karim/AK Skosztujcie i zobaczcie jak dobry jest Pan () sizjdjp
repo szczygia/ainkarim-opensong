@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>AK Skorztujcie i zobaczcie jak dobry jest Pan () sizjdjp</title>
+  <title>AK Skosztujcie i zobaczcie jak dobry jest Pan () sizjdjp</title>
   <lyrics>[C]
  Skosztujcie i zobaczcie jak dobry jest Pan!
 
@@ -29,7 +29,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

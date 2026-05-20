@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Memu Bogu, Królowi</title>
+  <title>Memu Bogu, Królowi () mbkbśtp</title>
   <lyrics>[V1]
  Memu Bogu, Królowi,
  będę śpiewał tę pieśń,
  teraz zawsze na wieki, amen.
- Alleluje, alleluja, alleluja, amen.</lyrics>
+ Alleluja, alleluja, alleluja, amen.</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

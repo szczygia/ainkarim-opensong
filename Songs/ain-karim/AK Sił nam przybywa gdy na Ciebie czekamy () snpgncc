@@ -9,7 +9,7 @@
 
 [V2]  
  Nasz Bóg, On rządzi wiecznie  
- Na dzie ją i Wybawcą jest!  
+ Nadzieją i Wybawcą jest!  
 
 [V3]  
  Ty jesteś wiecznie żywy Bóg!  
@@ -26,7 +26,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

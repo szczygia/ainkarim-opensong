@@ -27,7 +27,7 @@
 
 [V4]  
  Tyś za nas życie swe oddał na krzyżu,  
- A w znaku chleba w światyniach zostałeś,  
+ A w znaku chleba w świątyniach zostałeś,  
  I dla nas zawsze masz otwarte serce,  
  Bo Ty do końca nas umiłowałeś.
 </lyrics>
@@ -36,7 +36,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

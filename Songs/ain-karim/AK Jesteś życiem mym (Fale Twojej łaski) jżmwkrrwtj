@@ -12,7 +12,7 @@
  Twa miłość mnie uwiodła
  Jezu jakże to możliwe jest
 [V2]
- Kiery ranne wstają zorze
+ Kiedy ranne wstają zorze
  Tobie ziemia, Tobie może
  Tobie śpiewa żywioł wszelki
  Bądź pochwalon, Boże wielki!</lyrics>
@@ -21,7 +21,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
